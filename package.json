@@ -2,7 +2,7 @@
   "name": "next-13-1-playground",
   "version": "0.1.0",
   "private": true,
-  "packageManager": "pnpm@7.1.7",
+  "packageManager": "pnpm@7.33.7",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

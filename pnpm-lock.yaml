@@ -1,7 +1,7 @@
 lockfileVersion: '6.0'
 
 settings:
-  autoInstallPeers: true
+  autoInstallPeers: false
   excludeLinksFromLockfile: false
 
 dependencies:
@@ -3270,7 +3270,7 @@ packages:
     resolution: {tarball: https://api.observablehq.com/d/a99b331307f7eae7.tgz?v=3}
     id: '@api.observablehq.com/d/a99b331307f7eae7.tgz?v=3'
     name: a99b331307f7eae7
-    version: 45.0.0
+    version: 46.0.0
     peerDependencies:
       '@observablehq/runtime': 4 - 5
     dependencies:
