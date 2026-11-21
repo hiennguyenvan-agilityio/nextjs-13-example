@@ -1,9 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:best-practices"
-  ],
-  "dependencyDashboard": true,
+  "extends": ["config:best-practices"],
+  "dependencyDashboard": {
+    "enabled": true
+  },
   "major": {
     "dependencyDashboardApproval": true
   }
